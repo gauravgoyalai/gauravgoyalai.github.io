@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Getting Started with Generative AI | Gaurav Goyal</title>
+  <style>
+    body { 
+      font-family: Arial, sans-serif; 
+      max-width: 900px; 
+      margin: auto; 
+      padding: 40px; 
+      background: #0f172a; 
+      color: #e5e7eb; 
+      line-height: 1.6;
+    }
+    h1 { color: #38bdf8; margin-bottom: 10px; }
+    h2 { color: #38bdf8; margin-top: 30px; }
+    p { margin-bottom: 16px; }
+    a { color: #38bdf8; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    code { background: #1e293b; padding: 2px 4px; border-radius: 4px; }
+    .back-link { margin-top: 30px; display: inline-block; }
+  </style>
+</head>
+<body>
+
+  <h1>Getting Started with Generative AI</h1>
+  <p><strong>By Gaurav Goyal</strong></p>
+
+  <h2>Introduction</h2>
+  <p>
+    Generative AI is transforming the way we create content, design products, and solve problems. 
+    From AI-generated images to code and text, these tools are becoming increasingly accessible. 
+    This article introduces the basics of Generative AI and how you can start learning and experimenting today.
+  </p>
+
+  <h2>What is Generative AI?</h2>
+  <p>
+    Generative AI refers to models that can generate new content based on patterns learned from data. 
+    Examples include:
+  </p>
+  <ul>
+    <li>Text generation (like ChatGPT)</li>
+    <li>Image generation (like DALL·E, MidJourney)</li>
+    <li>Music or code generation</li>
+  </ul>
+
+  <h2>How to Get Started</h2>
+  <p>Here’s a simple roadmap for beginners:</p>
+  <ul>
+    <li>Learn Python fundamentals (variables, loops, functions)</li>
+    <li>Understand basic AI/ML concepts (models, datasets, training)</li>
+    <li>Experiment with pre-trained Generative AI models (OpenAI Playground, Hugging Face)</li>
+    <li>Build small projects and document your learning</li>
+  </ul>
+
+  <h2>Free Resources</h2>
+  <ul>
+    <li><a href="https://cs50.harvard.edu/python/" target="_blank">Python Programming (Harvard CS50)</a></li>
+    <li><a href="https://www.kaggle.com/learn/data-cleaning" target="_blank">Data Cleaning (Kaggle)</a></li>
+    <li><a href="https://cognitiveclass.ai/courses/data-analysis-with-python/" target="_blank">Data Analysis with Python (IBM Cognitive Class)</a></li>
+  </ul>
+
+  <h2>Conclusion</h2>
+  <p>
+    Generative AI is accessible to everyone. Start small, experiment consistently, 
+    and use free resources to build your skills. Over time, you’ll gain the confidence to create real-world AI applications.
+  </p>
+
+  <a href="index.html" class="back-link">← Back to Homepage</a>
+
+</body>
+</html>
